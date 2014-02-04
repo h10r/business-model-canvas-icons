@@ -11,7 +11,7 @@ From this book:
 
 http://www.businessmodelgeneration.com/canvas
 
-LICENSE
+License
 ============================
 
 Creative Commons Attribution-Share Alike 3.0 Unported License (just like the original)
